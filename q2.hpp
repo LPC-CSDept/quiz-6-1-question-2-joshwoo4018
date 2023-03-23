@@ -23,6 +23,6 @@ int findMin(int n1, int n2, int n3) {
     return min;
 }
 
-void printResults(int n1, int n2, int n3, int min) {
+void printResult(int n1, int n2, int n3, int min) {
     cout << " The min is: " << min << endl;
 }
